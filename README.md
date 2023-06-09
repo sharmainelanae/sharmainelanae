@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...TBA
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate on ...TBA
+- 🤔 I’m looking for help with ...Frontend Design
+- 💬 Ask me about ...Spanish (and other languages/linguistics)
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ...I'm a melanie martinez fan
 <!--
 **sharmainelanae/sharmainelanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
